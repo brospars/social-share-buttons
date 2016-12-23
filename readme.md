@@ -1,13 +1,13 @@
-## Social share buttons (no javascript)
+## Social share buttons (no javascript, no API required)
 
 Super simple social share buttons for major social networks, no javascript required.
-	* Facebook
-	* Twitter
-	* Instagram
-	* Pinterest
-	* Linkedin
-	* Google Plus
-	* Email
+ - Facebook
+ - Twitter
+ - Instagram
+ - Pinterest
+ - Linkedin
+ - Google Plus
+ - Email
 
 ### Demo
 The demo page : https://brospars.github.io/social-share-buttons/
@@ -20,7 +20,7 @@ Simply copy this markup and change the url parameters (in full caps) to your pre
 
 I have added an instagram button, you can't really share content on instagram but I really like the new logo and gradient so why not :)
 
-*HTML :*
+**HTML :**
 ```html
 <ul class="share-buttons">
   <li>
@@ -79,7 +79,7 @@ I have added an instagram button, you can't really share content on instagram bu
 </ul>
 ```
 
-*CSS :*
+**CSS :**
 ```css
 .share-buttons{
 	font-size: 0; /* hack no-margin inline-blocks */
