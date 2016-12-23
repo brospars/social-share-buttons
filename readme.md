@@ -12,7 +12,10 @@ Super simple social share buttons for major social networks, no javascript requi
 ### Demo
 The demo page : https://brospars.github.io/social-share-buttons/
 
-### Usage
+### URL parameters
+
+
+### Basic Usage
 Simply copy this markup and change the url parameters (in full caps) to your preferences. 
 
 I have added an instagram button, you can't really share content on instagram but I really like the new logo and gradient so why not :)
